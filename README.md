@@ -1,6 +1,6 @@
-# Aura
-Aura is CSGO cheat and loader project.
-Aura is open source you can modify and edit this source as you want.
+# Aurora
+Aurora is CSGO cheat and loader project.
+Aurora is open source you can modify and edit this source as you want.
 In this project you will find source for cheat and cheat loader.
 Cheat dont have a lof of features and is still being working on.
 # Cheat
